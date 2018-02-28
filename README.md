@@ -31,7 +31,7 @@ Vidéo and illustration
 
 [Generating n buildings with 1 box](https://www.youtube.com/watch?v=LwsPW0rcB44)
 
-![Different generations with various parcels](https://github.com/SimPLU3D/simplu3D/blob/master/readme_images/simParc.png)
+![Different generations with various parcels](https://raw.githubusercontent.com/SimPLU3D/simplu3D/master/readme_images/simParc.png)
 
 Test class
 ---------------------
